@@ -1,0 +1,16 @@
+/*style.css*/
+.plain {
+    background-color: black;
+    color: white;
+}
+
+.cool {
+    background-color: yellow;
+}
+
+.plain,
+.cool
+ {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", ;
+}
